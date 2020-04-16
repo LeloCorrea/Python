@@ -2,7 +2,7 @@
 Repositório utilizado para arquivos em linguagem Python.
 
 Python é uma linguagem de propósito geral, multiplataforma. Podendo utilizar a linguagem pra praticamente tudo, sendo utilizado em vários setores, pois é uma linguagem fácil e intuitiva
-A essencia é considerada batteries included, pois ao efetuar a instalação do pacote já vem com muitos pacotes instalados por padrão.
+A essencia é considerada batteries included (bibliotecas incluidas), pois ao efetuar a instalação do pacote já vem com muitos pacotes instalados por padrão.
 É uma linguagem orientada a objetos totalmente livre, totalmente organizada, tendo muitas bibliotecas.
 
 Principais áreas para aplicar python: Sistemas operacionais, Inteligência artificial, Biotecnologia, Computação 3D.
@@ -15,6 +15,7 @@ Ferramentas: Autodesc (Maia e Softimage, software livre)
 
 Principais comandos no terminal:
 Ver a versão: python --version
+Importar o zen do python: import this
 
 "Bonito é melhor que feio.
 Explícito é melhor que implícito.
