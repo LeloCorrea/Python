@@ -13,6 +13,9 @@ Quem usa python: Zope, Air Canada, BitTorrent, Globo, Google, Youtube, Nasa, Ind
 Jogos: Civilization 4, BattleField 2.
 Ferramentas: Autodesc (Maia e Softimage, software livre)
 
+Principais comandos no terminal:
+Ver a versão: python --version
+
 "Bonito é melhor que feio.
 Explícito é melhor que implícito.
 Simples é melhor que complexo.
