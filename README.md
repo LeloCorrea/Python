@@ -15,6 +15,7 @@ Ferramentas: Autodesc (Maia e Softimage, software livre)
 
 Principais comandos no terminal:
 Ver a versão: python --version
+Para instalar o python no linux: sudo apt-get python3.7
 Importar o zen do python: import this
 
 "Bonito é melhor que feio.
