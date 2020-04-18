@@ -114,7 +114,48 @@ Qual é o seu nome?Anderson
 Olá  Anderson ! Prazer em te conhecer!
 >>> 
 
+2: Crie um script python que leia o dia, o mês e o ano de nascimento de uma pessoa e mostre uma mensagem com a data formatada.
 
-2
+Script:
+"""Desafio 2:
+Crie um script python que leia o dia, o mês
+e o ano de nascimento de uma pessoa e mostre uma mensagem com a data formatada."""
 
-3
+dia=input('Dia =  ')
+mes=input('Mês =  ')
+ano=input('Ano =  ')
+print('Você nasceu no dia ',dia,' de ',mes,' de ',ano,'. Correto?')
+
+Retorno:
+Python 3.6.9 (default, Nov  7 2019, 10:44:02) 
+[GCC 8.3.0] on linux
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=== RESTART: /home/anderson/Área de Trabalho/scripts_python/desafio_02.py ===
+Dia =  01
+Mês =  12
+Ano =  1988
+Você nasceu no dia  01  de  12  de  1988 . Correto?
+>>> 
+
+3:
+Crie um script python que leia dois números e tente mostrar a soma entre eles.
+
+Script:
+'''Desafio 3:
+Crie um script python que leia dois números e tente mostrar a soma entre eles.'''
+
+num1=input('Primeiro número: ')
+num2=input('Segundo número: ')
+print('A soma é ', num1 + num2)
+
+Retorno: #Deu erro, a resposta estará na próxima aula.
+Python 3.6.9 (default, Nov  7 2019, 10:44:02) 
+[GCC 8.3.0] on linux
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=== RESTART: /home/anderson/Área de Trabalho/scripts_python/desafio-03.py ===
+Primeiro número: 6
+Segundo número: 3
+A soma é  63
+>>> 
