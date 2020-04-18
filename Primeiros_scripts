@@ -36,10 +36,12 @@ peso=input('Qual o seu peso?)
 Python 3.6.9 (default, Nov  7 2019, 10:44:02) 
 [GCC 8.3.0] on linux
 Type "help", "copyright", "credits" or "license()" for more information.
+
 >>> print('Olá Mundo!')
 Olá Mundo!
 >>> print(Olá Mundo)
 SyntaxError: invalid syntax
+
 >>> print(7+4)
 11
 >>> print('7'+'4')
