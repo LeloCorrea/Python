@@ -7,6 +7,10 @@ A essencia é considerada batteries included (bibliotecas incluidas), pois ao ef
 
 Principais áreas para aplicar python: Sistemas operacionais, Inteligência artificial, Biotecnologia, Computação 3D.
 
+Requisitos para trabalhar com python:
+sudo apt-get update; sudo apt-get upgrade
+sudo apt-get install idle
+
 Framework: Django de criação de conteúdo, pra organização de sites.
 
 Quem usa python: Zope, Air Canada, BitTorrent, Globo, Google, Youtube, Nasa, Industrial Light & Magic (Star Wars). Raspeberypi, Arduino.
