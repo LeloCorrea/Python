@@ -6,7 +6,9 @@ n1=int(input('Digite um número: '))
 n2=int(input('Digite outro número: '))
 # Neste caso ( s=n1+n2 ) O mais serve como concatenação.
 s=n1+n2
+#Exemplos de print:
 print('O resultado é:',s)
+print('O resultado é: {}'.format(s))
 
 '''
 Tipos primitivos de dados:
