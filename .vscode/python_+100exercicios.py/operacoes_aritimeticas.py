@@ -38,3 +38,4 @@ print('O resultado da soma é: {}'.format(soma))
  5//2 = 2
  5%2 = 1
  '''
+
