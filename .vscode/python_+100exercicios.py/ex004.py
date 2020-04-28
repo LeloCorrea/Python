@@ -13,7 +13,7 @@ print('Esta em minúsculas?', algo.islower())
 print('Esta em capitalizada?', algo.istitle())
 
 
-#A função input retorna sempre uma string.
+#Macetes básicos: A função input retorna sempre uma string.
 
 '''
 Neste caso específico a variável algo é um objeto.
