@@ -53,3 +53,29 @@ No console:
 ====================
 '''
 
+'''
+nome = input('Qual o seu nome? ')
+print('Prazer em te conhecer, {:^20}!'.format(nome))
+#Tipos de alinhamento: {:>20}, {:<20}, {:^20}, {:=^20}
+'''
+'''
+n1 = int(input('Um valor: '))
+n2 = int(input('Outro valor: '))
+print('A soma vale: {}'.format(n1+n2))
+'''
+
+n1 = int(input('Digite um valor: '))
+n2 = int(input('Digite outro valor: '))
+
+soma = n1 + n2  #Adição
+subt = n1 - n2  #Subtração
+mult = n1 * n2  #Multiplicação
+divi = n1 / n2  #Divisão real
+dint = n1 // n2 #Divisão inteira
+expo = n1 ** n2 #Exponenciação
+
+print('A soma é: {} \nA subtração é: {}'.format(soma, subt))
+print('O produto/multiplicação é: {} \nA divisão real é: {}'.format(mult, divi))
+print('A divisão inteira é: {} \nA exponenciação é: {}'.format(dint, expo))
+ 
+  
