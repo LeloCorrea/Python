@@ -70,12 +70,13 @@ n2 = int(input('Digite outro valor: '))
 soma = n1 + n2  #Adição
 subt = n1 - n2  #Subtração
 mult = n1 * n2  #Multiplicação
-divi = n1 / n2  #Divisão real
+divi = n1 / n2  #Divisão real, formatando com duas casas depois da virgula {:.2f}
 dint = n1 // n2 #Divisão inteira
 expo = n1 ** n2 #Exponenciação
 
+# Para não quebrar a linha no final do print, depois do .format(...), end=''
+# para quebrar \n
+
 print('A soma é: {} \nA subtração é: {}'.format(soma, subt))
-print('O produto/multiplicação é: {} \nA divisão real é: {}'.format(mult, divi))
-print('A divisão inteira é: {} \nA exponenciação é: {}'.format(dint, expo))
- 
-  
+print('O produto/multiplicação é: {} \nA divisão real é: {:.2f}'.format(mult, divi))
+print('A divisão inteira é: {} \nA exponenciação é: 4{}'.format(dint, expo))
