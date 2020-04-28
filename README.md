@@ -25,6 +25,9 @@ Ver a versão: python --version
 Para instalar o python no linux: sudo apt-get python3.7
 Importar o zen do python: import this
 
+1 - Orientação a objetos.
+2 - Construção de interfaces gráficas.
+
 "Bonito é melhor que feio.
 Explícito é melhor que implícito.
 Simples é melhor que complexo.
