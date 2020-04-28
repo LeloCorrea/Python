@@ -1,4 +1,7 @@
 # Python
+
+A chave para o aprendizado é a prática!
+
 Repositório utilizado para arquivos em linguagem Python.
 
 Python é uma linguagem de propósito geral, multiplataforma. Podendo utilizar a linguagem pra praticamente tudo, sendo utilizado em vários setores, pois é uma linguagem fácil e intuitiva
