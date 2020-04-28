@@ -1,5 +1,5 @@
-"""Desafio 003:
-Crie um programa que leia dois números e mostre a soma entre eles:"""
+'''Desafio 003:
+Crie um programa que leia dois números e mostre a soma entre eles:'''
 
 #É preciso colocar o tipo da variável que você quer que apareça antes do input.
 num1 = int(input("Digite o primeiro número: "))
