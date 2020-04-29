@@ -34,7 +34,7 @@ No console:
 0.5
 >>> 81**(1/2) #Faz a divisão de 1/2 = 0.5, pega o valor e eleva a 0.5
 9.0
->>> 25**(1/2)
+>>> 25**(1/2) #Raiz quadrada
 5.0
 
 >>> 127**(1/3) #Raiz cúbica
