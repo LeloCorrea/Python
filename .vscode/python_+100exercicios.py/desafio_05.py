@@ -2,6 +2,7 @@
 Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.'''
 '''
 #Primeiro jeito de fazer:
+
 num = int(input('Digite um número inteiro: '))
 sucessor = num +1
 antecessor = num - 1
